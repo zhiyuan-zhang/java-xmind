@@ -1,11 +1,1 @@
-网络层
-tcp 是 基于下一跳的规则 每个节点只需要记录下一个节点的地址
-
-ping baidu.com
-
-route -n  
-ip 和 Genmask(子网掩码)   按位与运算  得到 Destination 找到(gateWay)网关
-
-
-链路层
-
+﻿
